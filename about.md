@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Under construction
+This blog is to record my life.
